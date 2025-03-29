@@ -5,5 +5,5 @@ import githubPages from 'vite-plugin-github-pages';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), githubPages()],
-  base: '/my-vite-react-app/', // Adjust based on your deployment needs 
+  base: '/react-19-go/', // Adjust based on your deployment needs 
 })
