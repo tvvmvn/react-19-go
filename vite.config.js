@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/react-19-go/', // Adjust based on your deployment needs 
+  base: '/react-19-go', // Adjust based on your deployment needs 
 })
